@@ -1,0 +1,3 @@
+What is pub/sub model?
+pub/sub full form is Publish-Subscribe.
+pub/sub model is a messaging pattern which is a part of software architecture where publishers who are able to publish(send) messages under specific topics where as subscribers(receivers) who had subscribed to the topics will be able to receive the messages of that particular topic.
